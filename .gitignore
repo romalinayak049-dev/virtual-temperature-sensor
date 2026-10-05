@@ -1,0 +1,12 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+*.cmd
+.*.cmd
+Module.symvers
+modules.order
+.tmp_versions/
+app/monitor
